@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AItutorHQ/static/css/main.673e8d4c.css",
+    "main.js": "/AItutorHQ/static/js/main.0b9d33a8.js",
+    "static/js/488.7e24f82f.chunk.js": "/AItutorHQ/static/js/488.7e24f82f.chunk.js",
+    "index.html": "/AItutorHQ/index.html",
+    "main.673e8d4c.css.map": "/AItutorHQ/static/css/main.673e8d4c.css.map",
+    "main.0b9d33a8.js.map": "/AItutorHQ/static/js/main.0b9d33a8.js.map",
+    "488.7e24f82f.chunk.js.map": "/AItutorHQ/static/js/488.7e24f82f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.673e8d4c.css",
+    "static/js/main.0b9d33a8.js"
+  ]
+}
